@@ -1,6 +1,7 @@
 /**
  * 
  */
+
 function joinCheck() {
 	
 	/* var form = document.joinForm; */
